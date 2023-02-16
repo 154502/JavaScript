@@ -1,2 +1,2 @@
-# Js-ebac
+# Java Script
 Repositorio propio para Java Script
